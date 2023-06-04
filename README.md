@@ -8,9 +8,9 @@ Welcome to the repository for my bachelor's thesis project, titled "Using Browni
 
 - **black_scholes_merton.ipynb**: This Jupyter Notebook contains code related to my experimentation and implementation of various aspects of the Black-Scholes-Merton model. Although not all the code within this file was directly utilized in my bachelor's thesis, it served as an experimental playground for testing different techniques.
 
-- **brownian_motion.ipynb**: In this Jupyter Notebook, you will find code dedicated to exploring Brownian motion and its applications within the context of the Black-Scholes-Merton model. This file demonstrates my understanding of stochastic calculus and its relevance to the thesis topic.
+- **brownian_motion.ipynb**: In this Jupyter Notebook, you will find code dedicated to exploring Brownian motion and its applications within the context of the Black-Scholes-Merton model. Again, not all of it is being used in the thesis.
 
-- **visualizations.ipynb**: The code in this Jupyter Notebook focuses on generating visualizations that support the narrative of my thesis. It showcases the plots and graphical representations used to validate the theory and enhance the overall understanding of the Black-Scholes-Merton model.
+- **visualizations.ipynb**: The code in this Jupyter Notebook focuses on generating visualizations that support the narrative of my thesis. It showcases the plots and graphical representations used to validate the theory and enhance the overall understanding of the topic.
 
 - **functions.py**: This Python module contains a collection of helper functions specifically developed for this project. These functions serve to streamline the implementation process and ensure code reusability and maintainability.
 
